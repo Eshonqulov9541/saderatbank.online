@@ -1,0 +1,70 @@
+@font-face { font-family: "Roboto"; font-weight: 100; font-style: normal; font-display: swap; src: url("/g/fonts/roboto/roboto-t.woff2") format("woff2"), url("/g/fonts/roboto/roboto-t.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 100; font-style: italic; font-display: swap; src: url("/g/fonts/roboto/roboto-t-i.woff2") format("woff2"), url("/g/fonts/roboto/roboto-t-i.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 300; font-style: normal; font-display: swap; src: url("/g/fonts/roboto/roboto-l.woff2") format("woff2"), url("/g/fonts/roboto/roboto-l.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 300; font-style: italic; font-display: swap; src: url("/g/fonts/roboto/roboto-l-i.woff2") format("woff2"), url("/g/fonts/roboto/roboto-l-i.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 400; font-style: normal; font-display: swap; src: url("/g/fonts/roboto/roboto-r.woff2") format("woff2"), url("/g/fonts/roboto/roboto-r.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 400; font-style: italic; font-display: swap; src: url("/g/fonts/roboto/roboto-r-i.woff2") format("woff2"), url("/g/fonts/roboto/roboto-r-i.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 500; font-style: normal; font-display: swap; src: url("/g/fonts/roboto/roboto-m.woff2") format("woff2"), url("/g/fonts/roboto/roboto-m.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 500; font-style: italic; font-display: swap; src: url("/g/fonts/roboto/roboto-m-i.woff2") format("woff2"), url("/g/fonts/roboto/roboto-m-i.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 700; font-style: normal; font-display: swap; src: url("/g/fonts/roboto/roboto-b.woff2") format("woff2"), url("/g/fonts/roboto/roboto-b.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 700; font-style: italic; font-display: swap; src: url("/g/fonts/roboto/roboto-b-i.woff2") format("woff2"), url("/g/fonts/roboto/roboto-b-i.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 900; font-style: normal; font-display: swap; src: url("/g/fonts/roboto/roboto-bl.woff2") format("woff2"), url("/g/fonts/roboto/roboto-bl.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 900; font-style: italic; font-display: swap; src: url("/g/fonts/roboto/roboto-bl-i.woff2") format("woff2"), url("/g/fonts/roboto/roboto-bl-i.woff") format("woff");}
+:root {
+	--color-ive8qvoam: 0, 0, 0;
+	--color-id825n53b: 0, 0, 0;
+	--color-iycnhjho3: 51, 51, 51;
+	--color-i3r4rgqn5: 46, 14, 116;
+	--color-iacyyih1y: 46, 14, 116;
+	--color-idlau9kfx: 0, 0, 0;
+	--color-ipboir3ty: 153, 153, 153;
+	--color-io7isdt3x: 46, 14, 116;
+	--color-ix0tirpjc: 51, 51, 51;
+	--color-i17iya9ic: 153, 153, 153;
+	--color-ircc49a86: 51, 51, 51;
+	--color-ius0u8pd7: 153, 153, 153;
+	--color-ie80fx5m5: 0, 0, 0;
+}
+
+.container--u-iqi50yw3e { width: 100%; max-width: 1280px; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; position: relative; padding-left: 24px; padding-right: 24px; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; color: rgba(var(--color-ive8qvoam), 1); cursor: auto; font-family: Roboto, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; line-height: normal; overflow-wrap: break-word; text-align: left; text-indent: 0px; text-shadow: none; text-transform: none }
+.heading--u-i0mfk32rx { font-size: 30px; line-height: normal; margin-top: 0px; margin-right: 0px; margin-bottom: 8px; margin-left: 24px; display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; position: relative; font-family: Arial, Helvetica, sans-serif; font-weight: 400; padding-bottom: 8px; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: rgba(var(--color-id825n53b), 0.2); color: rgba(var(--color-iycnhjho3), 1) }
+.div--u-iu60xz9pc { width: 10px; position: relative; display: block; background-color: rgba(var(--color-i3r4rgqn5), 1); height: 10px; margin-left: 0px; -ms-flex-order: -1; -webkit-order: -1; order: -1; margin-top: 13px; border-top-left-radius: 250px; border-top-right-radius: 250px; border-bottom-right-radius: 250px; border-bottom-left-radius: 250px }
+.mosaic-form--u-iwds92kz0 .div--u-iu60xz9pc { margin-bottom: 8px; border-top-left-radius: 250px; border-top-right-radius: 250px; border-bottom-right-radius: 250px; border-bottom-left-radius: 250px; background-color: rgba(var(--color-iacyyih1y), 1) }
+.div--u-i31lhh4o1 { width: 40%; position: relative; display: -webkit-box; display: -ms-flexbox; display: flex; margin-bottom: 0px; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; padding-right: 16px; -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start }
+.div--u-in4as0896 { width: 100%; position: relative; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start; padding-left: 16px; margin-left: 0px; margin-right: 0px }
+.div--u-izcyz73fn { width: 100%; position: relative; display: -webkit-box; display: -ms-flexbox; display: flex }
+.text--u-inoi74hr0 { display: -webkit-box; display: -ms-flexbox; display: flex; vertical-align: top; position: relative; margin-top: 0px; padding-top: 0px; margin-left: 36px; border-top-style: solid; border-top-width: 0px; border-top-color: rgba(var(--color-idlau9kfx), 0.2); color: rgba(var(--color-ipboir3ty), 1) }
+.blocklist__item_title--u-i8ftt0ez6 { margin-bottom: 20px; display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; padding-right: 16px; color: rgba(var(--color-io7isdt3x), 1); font-size: 18px; font-weight: 700 }
+.blocklist__item_text--u-imvbihopj { display: -webkit-box; display: -ms-flexbox; display: flex; margin-bottom: 8px; color: rgba(var(--color-ix0tirpjc), 1); font-size: 18px; font-weight: 700; text-align: center }
+.div--u-id2nyt2zq { width: auto; position: relative; display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; flex-shrink: 0; margin-left: 0px; margin-right: 0px; justify-content: space-between }
+.div--u-ivm2an1t8 { width: 50%; position: relative; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; padding-right: 0px; flex-shrink: 0;  -webkit-box-align: center; -ms-flex-align: center; align-items: center; margin-right: 5px }
+.div--u-icjckq8wh { width: 50%; position: relative; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; padding-left: 0px; flex-shrink: 0; margin-left: 5px }
+.text--u-ikvtyv0lw { display: -webkit-box; display: -ms-flexbox; display: flex; vertical-align: top; position: relative; font-size: 12px; color: rgba(var(--color-i17iya9ic), 1); text-transform: uppercase; text-align: center; flex-wrap: nowrap }
+.text--u-icktczaj7 { display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; vertical-align: top; position: relative; margin-bottom: 8px; font-size: 18px; font-weight: 700; color: rgba(var(--color-ircc49a86), 1); text-align: center; overflow-wrap: normal }
+.text--u-id5xmh4fa { display: -webkit-box; display: -ms-flexbox; display: flex; vertical-align: top; position: relative; color: rgba(var(--color-ius0u8pd7), 1); font-size: 12px; text-transform: uppercase; text-align: center }
+.list__item--u-ihhnbtt2b { padding-top: 8px; padding-right: 10px; padding-bottom: 8px; padding-left: 10px; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start; border-right-style: solid; border-right-width: 1px; border-right-color: rgba(var(--color-ie80fx5m5), 0.1); margin-left: auto; margin-right: auto; width: 280px; justify-content: center }
+.list--u-i8j4eik58 { display: -webkit-box; display: -ms-flexbox; display: flex; flex-wrap: wrap; -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start; margin-left: 0px; margin-right: 0px; width: 100%; justify-content: space-between; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row }
+
+@media (max-width: 991px) {
+	.list__item--u-ihhnbtt2b { width: 50%; padding-left: 5px; padding-right: 5px }
+	.heading--u-i0mfk32rx { font-size: 28px }
+	.blocklist__item_text--u-imvbihopj { font-size: 17px }
+	.blocklist__item_title--u-i8ftt0ez6 { font-size: 16px; padding-right: 10px }
+	.div--u-in4as0896 { padding-left: 0px }
+	.div--u-i31lhh4o1 { padding-right: 10px; width: 36% }
+}
+
+@media (max-width: 767px) {
+	.container--u-iqi50yw3e { -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; padding-left: 16px; padding-right: 16px }
+	.div--u-i31lhh4o1 { margin-left: 0px; margin-right: 0px; width: 100%; padding-right: 0px;  -webkit-box-align: center; -ms-flex-align: center; align-items: center }
+	.heading--u-i0mfk32rx { font-size: 25px }
+	.div--u-in4as0896 { padding-top: 16px; padding-left: 0px }
+	.list__item--u-ihhnbtt2b { margin-left: 0px; margin-right: 0px; width: 100%; padding-left: 0px; padding-right: 0px }
+	.div--u-izcyz73fn { justify-content: center }
+}
+
+@media (max-width: 479px) {
+	.list__item--u-ihhnbtt2b { padding-left: 0px; padding-right: 0px }
+	.heading--u-i0mfk32rx { font-size: 22px; margin-left: 16px }
+	.text--u-inoi74hr0 { margin-left: 26px }
+}
